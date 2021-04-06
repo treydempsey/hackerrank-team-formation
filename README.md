@@ -1,14 +1,14 @@
-# Team Formation
+# Hacker Rank - Team Formation
 
 This is a solution I crafted to the Team Formation problem from Hacker Rank.
 
-Note Hackerrank has two problems named Team Formation. The problem statement
+Note Hacker Rank has two problems named Team Formation. The problem statement
 and examples can be found here: [page 1](problem_statement_1.png),
 [page 2](problem_statement_2.png), [page 3](problem_statement_3.png).
 
 My initial solution is in solution.rb and is the one I submitted. During testing
 I had issues with test cases 10 through 15 timing out. Although my solution is
-a relatively stright forward brute force solution, I felt that it would excute
+a relatively straightforward brute force solution, I felt that it would excute
 within time limits if written in a more performant language.
 
 Thus the rust solution is basically a one to one port of the ruby code and does
@@ -31,7 +31,7 @@ due to bounds checks and other checks not typically present in a release build.
 
 ## Running
 
-The examples follow the same structure as the hackerrank execution requirements.
+The examples follow the same structure as the Hacker Rank execution requirements.
 Their ruby template code assumes an environment variable, OUTPUT\_PATH, is set,
 writing resulting data to that file. Input is read from the standard in.
 
