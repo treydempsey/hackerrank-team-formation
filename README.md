@@ -2,6 +2,10 @@
 
 This is a solution I crafted to the Team Formation problem from Hacker Rank.
 
+Note Hackerrank has two problems named Team Formation. The problem statement
+and examples can be found here: [page 1](file:///problem_statement_1.png),
+[page 2](file:///problem_statement_2.png), [page 3](file:///problem_statement_3.png).
+
 My initial solution is in solution.rb and is the one I submitted. During testing
 I had issues with test cases 10 through 15 timing out. Although my solution is
 a relatively stright forward brute force solution, I felt that it would excute
